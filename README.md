@@ -1,49 +1,49 @@
 # 👋 Hey there, I'm Aswin Dev !
 
-I'm a DevOps Engineer with over 3 years of hands-on experience in designing, implementing, and maintaining CI/CD pipelines, cloud infrastructure, and container orchestration systems. Passionate about automating everything to improve software delivery and operational efficiency.
+I'm a **Senior DevOps Engineer** with over 4 years of hands-on experience in designing, implementing, and maintaining cloud-native infrastructure, CI/CD pipelines, and Kubernetes-based systems. Passionate about **Cloud Native** technologies, Kubernetes, and automating everything to improve software delivery and operational efficiency.
+
+## 🌍 Cloud Native & CKA Focus
+
+- **Certified Kubernetes Administrator (CKA)**: Expertise in Kubernetes cluster setup, maintenance, and troubleshooting.
+- **Cloud Native Architectures**: Design and deploy scalable, resilient microservices using Kubernetes and service meshes.
+- **Observability**: Proficient in monitoring and logging with Prometheus, Grafana, and ELK stack.
+- **Security in Kubernetes**: Implementing best practices for RBAC, Network Policies, and Pod Security Standards.
 
 ## 🛠️ Skills
 
-- **DevOps**: CI/CD, GitOps, Infrastructure as Code (IaC)
-- **Cloud Platforms**: AWS, GCP
-- **Containerization**: Kubernetes, Docker
-- **Service Mesh**: Istio
-- **Workflow Automation**: Argo Workflows
-- **Event Streaming**: Kafka
-- **Scripting & Programming**: Shell Scripting, Python, Golang
-- **Operating Systems**: Linux
+- **DevOps & Automation**: CI/CD, GitOps, Infrastructure as Code (IaC) with Terraform and Helm.
+- **Cloud Platforms**: AWS, GCP – Experienced in cloud-native services like EKS, GKE, and serverless computing.
+- **Containerization**: Kubernetes (CKA Certified), Docker, Helm.
+- **Service Mesh & API Gateway**: Istio, Envoy, API Gateway.
+- **Workflow Automation**: Argo Workflows & ArgoCD for GitOps.
+- **Event Streaming**: Kafka for distributed data processing.
+- **Scripting & Programming**: Shell Scripting, Python, Golang.
+- **Observability**: Prometheus, Grafana, Loki, Jaeger for distributed tracing.
+- **Security & Compliance**: Kubernetes security, IAM policies, OPA/Gatekeeper.
+- **Operating Systems**: Linux.
 
 ## 🌟 Highlights
 
-- **AWS & GCP**: Proficient in setting up, configuring, and optimizing cloud services.
-- **Kubernetes & Istio**: Experienced in deploying and managing microservices on Kubernetes with Istio for service mesh.
-- **GitOps**: Implemented GitOps practices using ArgoCD for automated application deployment and management.
-- **CI/CD**: Designed and maintained CI/CD pipelines using Jenkins, GitLab CI/CD, and GitHub Actions.
-- **Containerization**: Utilized Docker for containerization and orchestration of applications.
-- **Scripting & Programming**: Strong scripting skills in Shell, Python, and Golang for automation and tool development.
+- **Cloud Native Excellence**: Hands-on experience in designing and managing cloud-native applications using Kubernetes, Istio, and Terraform.
+- **Kubernetes & Istio**: Deep knowledge of container orchestration, service discovery, and load balancing.
+- **GitOps**: Implemented GitOps workflows using ArgoCD and Flux.
+- **CI/CD Pipelines**: Designed and maintained robust CI/CD pipelines using Jenkins, GitLab CI/CD, and GitHub Actions.
+- **Kubernetes Security**: Implemented RBAC, Pod Security, Network Policies, and OPA for secure cloud environments.
+- **Observability & Monitoring**: Set up centralized logging, monitoring, and tracing for Kubernetes clusters.
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Aswindevs](www.linkedin.com/in/aswin-dev-s)
-- Email: [@aswindevs](aswindevs07@gmail.com)
+- **LinkedIn**: [Aswindevs](www.linkedin.com/in/aswin-dev-s)
+- **Email**: [@aswindevs](aswindevs07@gmail.com)
+- **GitHub**: [aswindevs](https://github.com/aswindevs)
 
 ## 🚀 Fun Facts
 
-- I love contributing to open-source projects.
-- Always up for a tech discussion or code review.
-- Coffee enthusiast ☕
+- I love contributing to open-source cloud-native projects.
+- Always up for Kubernetes and DevOps discussions.
+- Coffee fuels my debugging sessions ☕.
 
-<!--
-**aswindevs/aswindevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Feel free to reach out if you want to talk about **Kubernetes, Cloud Native tech, or DevOps best practices**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
